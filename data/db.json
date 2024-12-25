@@ -1,0 +1,117 @@
+{
+  "jobTypes": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "category": "Technology",
+      "type": "Full-time",
+      "level": "Mid-Senior",
+      "description": "We are seeking a talented Software Engineer to join our development team. The ideal candidate will have strong full-stack development skills and experience building scalable applications. You will work on challenging projects while collaborating with cross-functional teams.",
+      "skills_required": [
+        "Backend Development",
+        "Frontend Development",
+        "API Design",
+        "Database Management"
+      ],
+      "typical_responsibilities": [
+        "Develop and maintain software applications",
+        "Write clean, testable code",
+        "Collaborate with cross-functional teams",
+        "Participate in code reviews"
+      ],
+      "work_environment": "Hybrid",
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "category": "Data",
+      "type": "Full-time",
+      "level": "Entry-Mid",
+      "description": "We are looking for a detail-oriented Data Analyst to help turn data into insights. The ideal candidate will have strong analytical skills and experience with data visualization tools. You will work closely with stakeholders to understand business needs and deliver data-driven solutions.",
+      "skills_required": [
+        "Data Analysis",
+        "Statistical Methods",
+        "SQL",
+        "Data Visualization"
+      ],
+      "typical_responsibilities": [
+        "Analyze complex data sets",
+        "Create reports and dashboards",
+        "Identify trends and patterns",
+        "Present findings to stakeholders"
+      ],
+      "work_environment": "Office-based",
+      "education_required": "Bachelor's in Statistics, Mathematics, or related field"
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "category": "Design",
+      "type": "Contract",
+      "level": "Mid",
+      "description": "We are seeking a creative UX Designer to help create exceptional user experiences. The ideal candidate will have a strong portfolio demonstrating user-centered design approaches. You will work on innovative projects while conducting research and creating intuitive interfaces.",
+      "skills_required": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing"
+      ],
+      "typical_responsibilities": [
+        "Create user-centered designs",
+        "Conduct user research",
+        "Design user interfaces",
+        "Test and iterate designs"
+      ],
+      "work_environment": "Remote",
+      "education_required": "Bachelor's in Design or related field"
+    }
+  ],
+  "industries": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "common_roles": [
+        "Software Engineer",
+        "DevOps Engineer",
+        "Product Manager",
+        "QA Engineer"
+      ],
+      "required_certifications": [
+        "AWS Certified Developer",
+        "Certified Scrum Master",
+        "CompTIA Security+"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Data Science",
+      "common_roles": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Data Engineer"
+      ],
+      "required_certifications": [
+        "Google Data Analytics",
+        "IBM Data Science Professional",
+        "Microsoft Data Analyst Associate"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Design",
+      "common_roles": [
+        "UX Designer",
+        "UI Designer",
+        "Product Designer",
+        "Interaction Designer"
+      ],
+      "required_certifications": [
+        "Google UX Design Certificate",
+        "Certified User Experience Analyst",
+        "Adobe Certified Professional"
+      ]
+    }
+  ]
+}
