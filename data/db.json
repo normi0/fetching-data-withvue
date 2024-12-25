@@ -1,27 +1,26 @@
 {
   "jobTypes": [
     {
-      "id": 1,
-      "title": "Software Engineer",
-      "category": "Technology",
-      "type": "Full-time",
-      "level": "Mid-Senior",
-      "description": "We are seeking a talented Software Engineer to join our development team. The ideal candidate will have strong full-stack development skills and experience building scalable applications. You will work on challenging projects while collaborating with cross-functional teams.",
-      "skills_required": [
-        "Backend Development",
-        "Frontend Development",
-        "API Design",
-        "Database Management"
-      ],
-      "typical_responsibilities": [
-        "Develop and maintain software applications",
-        "Write clean, testable code",
-        "Collaborate with cross-functional teams",
-        "Participate in code reviews"
-      ],
-      "work_environment": "Hybrid",
-      "education_required": "Bachelor's in Computer Science or related field"
-    },
+        "id": 1,
+        "title": "Software Engineer",
+        "category": "Technology",
+        "type": "Full-time",
+        "level": "Mid-Senior",
+        "skills_required": [
+          "Backend Development",
+          "Frontend Development",
+          "API Design",
+          "Database Management"
+        ],
+        "typical_responsibilities": [
+          "Develop and maintain software applications",
+          "Write clean, testable code",
+          "Collaborate with cross-functional teams",
+          "Participate in code reviews"
+        ],
+        "work_environment": "Hybrid",
+        "education_required": "Bachelor's in Computer Science or related field"
+      },
     {
       "id": 2,
       "title": "Data Analyst",

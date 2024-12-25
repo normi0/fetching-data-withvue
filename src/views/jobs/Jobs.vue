@@ -22,10 +22,10 @@ export default {
     };
   },
   mounted() {
-    fetch('http://localhost:3000/jobTypes')
-      .then(response => response.json())
-      .then(data => this.jobs = data)
-      .catch(error => console.error('Error fetching jobs:', error));
+    fetch("http://localhost:3000/jobTypes")
+      .then((response) => response.json())
+      .then((data) => (this.jobs = data))
+      .catch((error) => console.error("Error fetching jobs:", error));
   },
   setup() {
     return {};
